@@ -45,4 +45,3 @@ new Spinner({color:'#fff', lines: 12}).spin(target);
 
 
 
-
