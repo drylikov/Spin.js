@@ -19,4 +19,3 @@ An animated CSS3 loading spinner with VML fallback for IE.
 new Spinner({color:'#fff', lines: 12}).spin(target);
 ```
 
-
