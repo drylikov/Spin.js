@@ -1,4 +1,3 @@
-
 # spin.js
 
 An animated CSS3 loading spinner with VML fallback for IE.
